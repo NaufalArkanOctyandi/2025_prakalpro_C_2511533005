@@ -1,8 +1,2 @@
-/**
- * 
- */
-/**
- * 
- */
-module prakalpro_2025_c_2511533005 {
+module Prakalpro_2025_c_2511533005 {
 }
