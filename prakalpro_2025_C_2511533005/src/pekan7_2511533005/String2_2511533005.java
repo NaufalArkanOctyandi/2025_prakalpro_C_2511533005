@@ -9,8 +9,8 @@ public class String2_2511533005 {
 		System.out.print("Nama Belakang: ");
 		String lastName= input.nextLine ();
 		String txt1 = "Dosen\"intelektual\"kampus";
-		System.out.println("Nama Lengkap: "+firstName + "" + lastName);
-		System.out.println("Nama Lengkap: "+firstName.concat(lastName));
+		System.out.println("Nama Lengkap: "+firstName + " " + lastName);
+		System.out.println("Nama Lengkap: "+firstName.concat (lastName));
 		System.out.println(txt1);
 		int x =10;
 		int y=20;
